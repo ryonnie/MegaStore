@@ -21,6 +21,6 @@ Enhance interactivity with advanced JavaScript frameworks.
 1) Clone the repository to your local machine.
 2) Extraire The rar File using winrar or any other related app
 3) Lanch Vs Code and install live Serveur Extension and add the Whole folder to your workspace
-4) Open Acceui.html and lanch the live Serveur
+4) Open Acceuil.html and lanch the live Serveur
 5) Navigate through categories, view product details, and enjoy the design.
 
